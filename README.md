@@ -49,19 +49,19 @@ This project demonstrates my ability to use JavaScript to manipulate arrays, gen
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/your-username/recipe-generator.git
-   ```
+```bash
+git clone https://github.com/your-username/recipe-generator.git
+```
 
 2. **Navigate to the project directory:**
 
-  ```bash
-  cd recipe-generator
-  ```
+```bash
+cd recipe-generator
+```
 
 3. **Run the application:**
 
 Open the index.html file in your browser console or run it using a JavaScript runtime like Node.js:
-  ```bash
-  cd recipe-generator
-  ```
+```bash
+node main.js
+```
